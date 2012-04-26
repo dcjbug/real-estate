@@ -1,11 +1,11 @@
 # JBCD Persistence Study Group Project
 
-## Real Estate Application [section-overview]
+## Real Estate Application 
 The Real Estate Application is a sample project that will be used to work through the core competency requirements of the JBCD-Persistence Exam.
 
-### Domain Model [section-domain]
+### Domain Model 
 NOTE: TO BE ADDED Later
-### Prerequisites [section-prerequisites]
+### Prerequisites 
 For the study exercises, we will use the following tooling:
 
 			1. Development Tools
